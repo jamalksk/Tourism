@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+.top{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    }
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a:hover{
+    color: red;
+}
+.gallerybox{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 80%;
+    
+}
+.gallerybox2{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 80%;
+}
+.gallerybox3{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 80%;
+}
+.image{
+    margin-top: 10px;
+}
+.htr{
+    
+    height: 720px;
+    width: 95%;
+    
+    margin-top: 20px;
+    margin-left: 50px;
+    }
+    .htr1{
+        display: flex;
+        padding-top: 50px;
+        padding-bottom: 10px;
+        justify-content: space-between;
+        text-align: center;
+        margin-right: 20px;
+        background-color: black;
+        color: white;
+        
+    }
+    .htr2{
+        display: flex;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        justify-content: space-between;
+        text-align: center;
+        margin-right: 20px;
+        background-color: black;
+        color: white;
+        }
+    .htr3{
+        display: flex;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        justify-content: space-between;
+        text-align: center;
+        margin-right: 20px;
+        background-color: black;
+        color: white;
+    }
+    .htr1 p{
+        padding: 50px;
+        width: 40%;
+    }
+    .htr2 p{
+        padding: 50px;
+        width: 40%;
+    }
+    .htr3 p{
+        padding: 50px;
+        width: 40%;
+    }
+    .anchor1{
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .anchor2{
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .empty{
+        height: 500px;
+        width: 100%;
+    }
+    
+    
+
+
+
+
